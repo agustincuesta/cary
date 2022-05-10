@@ -105,7 +105,7 @@ body{
 }
 .menubar{
     position: absolute;
-    right:20%;
+    right:1%;
     top: 40%;
     cursor: pointer;
     opacity: .8;
