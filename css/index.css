@@ -390,7 +390,7 @@ body{
 #breaker{
     height: 100vh;
     width: 200%;
-    background-color: #c70039;
+    background-color: rgb(8, 6, 6);
     opacity: 1;
     animation: breakeranimate 2s linear;
     display: none;
